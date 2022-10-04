@@ -1,0 +1,104 @@
+.navbar {
+    background-color: #33393F;
+    color: white ;
+}
+
+.imagensuperior { 
+    width: 100%;
+    
+}
+
+/* Ubicacion del bloque de texto */
+.ubicaciontextoimg {margin-left: 50%;}
+.ubicacionconfbsas {margin-top: 25%;
+                    margin-left:50%}
+
+
+.textooradores {font-size: 1.5rem;
+    text-align: center;
+    font-family: Arial;
+}
+.textoconoce {font-size: 0.6rem;
+    font-family: arial;
+    text-align: center;}
+
+
+            
+ /* Botones javascript y react en cards */    
+.botonjava{float:left;
+    background-color: #E7B72E; 
+    font-weight: 700;
+    border-radius: 5px;
+    color: black;
+    padding: 2px 7px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 0.8rem;
+    border:none;   }
+
+.botonreact{float:left;
+    background-color: #2096AB; 
+    font-weight: 700;
+    border-radius: 5px;
+    color: white;
+    padding: 2px 6px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 0.8rem;
+    border:none;
+    position:relative;
+    left: 5px; }
+
+.botonstartups {float:left;
+    background-color: #ab2020; 
+    font-weight: 700;
+    border-radius: 5px;
+    color: white;
+    padding: 2px 6px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 0.8rem;
+    border:none;
+    position:relative;
+    left: 5px; }
+          
+    
+.botonnegocios {float:left;
+    background-color: #474747; 
+    font-weight: 700;
+    border-radius: 5px;
+    color: white;
+    padding: 2px 5px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 0.8rem;
+    border:none;
+    position:relative;
+    left: 0px; }
+
+/* Textos bajo imagenes de oradores */
+.card-text {text-align: left ;}
+.card-title {text-align: left ;}
+
+.nombre {height: 2rem;}
+
+.botonEnviar{background-color: #8DB444}
+  
+.footer {
+    background-color: #1c445a;
+   }
+   
+   
+.honolulutexto{ 
+    background-color: #32393F;
+    
+ 
+  }
+
+
+
+
